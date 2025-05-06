@@ -29,4 +29,5 @@ This project focuses on analyzing asteroid (Near-Earth Object) data from NASA to
   - `id`, `name`, `absolute_magnitude_h`, `is_potentially_hazardous_asteroid`
   - `estimated_diameter_min`, `estimated_diameter_max`
   - `relative_velocity`, `miss_distance`, `orbiting_body`, `close_approach_date`
-- **Size**: ~900 records
+ 
+    Navigate to http://127.0.0.1:5000/ to explore asteroid insights.
